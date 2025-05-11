@@ -3,9 +3,11 @@
 
 ### 1. Clone the repository
 
-'''sh
+```sh
 git clone https://github.com/yourusername/Web_scrapping.git
+
 cd Web_scrapping
+```
 
 Install dependencies
 
