@@ -1,5 +1,6 @@
 # Web_scrapping
-### Usage
+
+## Usage
 
 ### 1. Clone the repository
 
@@ -9,15 +10,15 @@ git clone https://github.com/yourusername/Web_scrapping.git
 cd Web_scrapping
 ```
 
-Install dependencies
+### 2. Install dependencies
 
 	pip install -r requirements.txt
 
-Run the scraper
+### 3. Run the scraper
 
 	python scrape_wikipedia.py
 
-Output
+### 4. Output
 
 A .csv file will be created in the project directory containing the scraped table data.
 
