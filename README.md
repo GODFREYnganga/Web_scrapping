@@ -22,6 +22,9 @@ cd Web_scrapping
 
 A .csv file will be created in the project directory containing the scraped table data.
 
+
+
+
 ## ⚙️ How It Works
 
 ### 1. Requesting the Page
